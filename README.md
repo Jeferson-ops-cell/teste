@@ -42,7 +42,7 @@ cd aula01
 ```
 2. Compile o Programa
 ```shell
-gcc nome_do_arquivo.c -lm
+ gcc nome_do_arquivo.c -lm
 ```
 3. Execute o Programa Compilado
 ```shell
